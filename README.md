@@ -1,12 +1,15 @@
-# analysis-and-visualisation-for-NVD
+# NVD Data Analysis and Visualisation
 
 ## About the Tool
 Some static analysis and visualisation for vulnerability instances disclosed in [NVD](https://nvd.nist.gov/vuln/full-listing). This tool also generates several datasets that can be used for further text-mining usage. You can directly employ the generated dataset, or apply this tool to get your own. 
-- CVSS Version2 categorisation dataset
-- CVSS Version3 categorisation dataset
-- [CWE](https://cwe.mitre.org/index.html) categorisation dataset
-- Threat (assigned by [cvedetails](https://www.cvedetails.com/vulnerabilities-by-types.php)) categorisation dataset
+- Vulnerability dataset (2002-2021) with [CWE](https://cwe.mitre.org/index.html) labels, CWE names, and cross-linked [CAPEC](https://capec.mitre.org/index.html) labels. 
+- Vulnerability dataset (2002-2021) with threat labels assigned by [cvedetails](https://www.cvedetails.com/vulnerabilities-by-types.php).
+- Vulnerability dataset (2002-2021) with detailed CVSS Version2 labels.
+- Vulnerability dataset (2002-2021) with detailed CVSS Version3 labels.
 
 ## Generate your own data
+Play with vulnerability reports as you want. 
+### Generate CWE data
+
 
 ## Directly use historical datasets
