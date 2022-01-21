@@ -6,8 +6,24 @@ Some static analysis and visualisation for vulnerability instances disclosed in 
 
 ## Generate your own data
 Play with vulnerability reports as you want. 
-### Generate CWE data
 
+- Step 1: Clone the repo using the following command:
+```bash
+git clone https://github.com/Yuni0217/NVDdata-analysis-and-visualisation.git 
+```
+- Step 2: Create a virtual environment.
+
+- Step 3: Install requirements using `pip`:
+```bash
+pip install -r requirements.txt
+```
+- Step 4: Download datasets from NVD feeds.
+```bash
+python ./CVSSV3prediction/updateDB.py
+
+- Step 5: Download datasets from NVD feeds.
+```bash
+python ./CVSSV3prediction/updateDB.py
 
 ## Directly use historical datasets
 We only generate the dataset for 2002-2003 and 2020-2021 to save some Github storage, but you can easily change the year parameters and generate reports of any year within (2002-2022) you want. 
