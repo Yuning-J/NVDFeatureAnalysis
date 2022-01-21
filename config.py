@@ -1,9 +1,8 @@
 import os
 
 # Change to the absolute path of your project location.
-# absolute_path = '/Users/aurelie/PycharmProjects/CPSLab1'
-
-project_path = '/Users/aurelie/PycharmProjects/CPSLab1/'
+absolute_path = '/Users/aurelie/PycharmProjects/CPSLab1/'
+project_path = absolute_path + 'NVDdata-analysis-and-visualisation/'
 
 
 # ================= label related ====================
@@ -20,13 +19,10 @@ cveDetails_path = project_path + 'originalDataset/cveIDThreatType/'
 nvd_json_path = project_path + 'originalDataset/reportNVDinJSON/'
 nvd_zip_path = project_path + 'originalDataset/reportNVDzip/'
 
+
 # ================= generated dataset paths ====================
 report_CWECAPEC_path = project_path + 'labelledDataset/reportsWithCWECAPECLabels/'
 report_threat_path = project_path + 'labelledDataset/reportsWithThreatLabels/'
 report_CVSSV2_path = project_path + 'labelledDataset/reportsWithCVSSV2Labels/'
 report_CVSSV3_path = project_path + 'labelledDataset/reportsWithCVSSV3Labels/'
 
-
-
-asset_vulnerability_read = project_path + 'SE_retrieved/'
-asset_vulnerability_write = project_path + 'SE_analysed/'
