@@ -19,6 +19,11 @@ Some data samples are illustrated below.
 <img src="https://github.com/Yuning-J/NVDdata-analysis-and-visualisation/blob/main/labelledDataset/samplePic/dataSample_cwecapec.png" alt="System" width="800px">
 </p>
 
+- Report with Threat labels:
+<p align="center">
+<img src="https://github.com/Yuning-J/NVDdata_FeatureAnalysis/blob/main/labelledDataset/samplePic/dataSample_threat.png" alt="System" width="850px">
+</p>
+
 - Report with CVSS Version 2 labels:
 <p align="center">
 <img src="https://github.com/Yuning-J/NVDdata-analysis-and-visualisation/blob/main/labelledDataset/samplePic/dataSample_cvssv2.png" alt="System" width="800px">
