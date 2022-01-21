@@ -2,7 +2,7 @@ import os
 
 # Change to the absolute path of your project location.
 absolute_path = '/Users/aurelie/PycharmProjects/CPSLab1/'
-project_path = absolute_path + 'NVDdata-analysis-and-visualisation/'
+project_path = absolute_path + 'NVDdata_FeatureAnalysis/'
 
 
 # ================= label related ====================
