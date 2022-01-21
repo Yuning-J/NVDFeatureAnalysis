@@ -52,6 +52,8 @@ python src./assignCVSSLabels.py that assigns threat labels to NVD vulnerabilitie
 
 ## Directly use historical datasets
 
+Note that these datasets are compressed due to large sizes.
+
 - [CWE/CAPEC Labelled Vulnerability dataset](https://github.com/Yuning-J/NVDdata-analysis-and-visualisation/tree/main/labelledDataset/reportsWithCVSSV2Labels) (2002-2021) with CWE labels and names, and CAPEC labels.  
 - [Threat Labelled Vulnerability dataset](https://github.com/Yuning-J/NVDdata-analysis-and-visualisation/tree/main/labelledDataset/reportsWithThreatLabels) (2002-2021) with labels assigned by [cvedetails](https://www.cvedetails.com/vulnerabilities-by-types.php).
 - [CVSS V2 Labelled Vulnerability dataset](https://github.com/Yuning-J/NVDdata-analysis-and-visualisation/tree/main/labelledDataset/reportsWithCVSSV2Labels) (2002-2021).
@@ -64,7 +66,7 @@ Check some of the visualisation documentations in the Notebooks. Below are some 
 
 - Vulnerability distribution in terms of access vector:
 <p align="center">
-<img src="https://github.com/Yuning-J/NVDdata_FeatureAnalysis/blob/main/labelledDataset/samplePic/V2AccessVectorDistribution.png" alt="System" width="800px">
+<img src="https://github.com/Yuning-J/NVDdata_FeatureAnalysis/blob/main/labelledDataset/samplePic/V2AccessVectorDistribution.png" alt="System" width="750px">
 </p>
 
 
