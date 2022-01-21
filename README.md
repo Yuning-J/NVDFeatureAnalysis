@@ -71,12 +71,12 @@ Check some of the visualisation documentations in the Notebooks. Or create your 
 
 - Vulnerability distribution in terms of access vector:
 <p align="center">
-<img src="https://github.com/Yuning-J/NVDdata_FeatureAnalysis/blob/main/labelledDataset/samplePic/V2AccessVectorDistribution.png" alt="System" width="750px">
+<img src="https://github.com/Yuning-J/NVDdata_FeatureAnalysis/blob/main/labelledDataset/samplePic/V2AccessVectorDistribution.png" alt="System" width="700px">
 </p>
 
 - Threat distribution:
 <p align="center">
-<img src="https://github.com/Yuning-J/NVDdata_FeatureAnalysis/blob/main/labelledDataset/samplePic/CVEDetails2021.png" alt="System" width="750px">
+<img src="https://github.com/Yuning-J/NVDdata_FeatureAnalysis/blob/main/labelledDataset/samplePic/CVEDetails2021.png" alt="System" width="780px">
 </p>
 
 
