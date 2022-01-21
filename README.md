@@ -1,5 +1,14 @@
 # NVD Data Feature Analysis
 
+<!-- TABLE OF CONTENTS -->
+## Table of Contents
+
+* [About the Tool](#about-the-tool)
+* [Generate your own data](#generate-your-own-data)
+* [Directly use historical datasets](#directly-use-historical-datasets)
+* [Some data visualisation](#some-data-visualisation)
+* [Cite](#cite)
+
 ## About the Tool
 Some static analysis and visualisation for vulnerability instances disclosed in [NVD](https://nvd.nist.gov/vuln/full-listing). This tool also generates several datasets with various labels ([CWE](https://cwe.mitre.org/index.html) labels, [CAPEC](https://capec.mitre.org/index.html) labels, [CVSS](https://www.first.org/cvss/specification-document) labels, [cvedetails](https://www.cvedetails.com/vulnerabilities-by-types.php) labels) that can be used for further text-mining usage. You can directly employ the generated dataset, or apply this tool to get your own. 
 
