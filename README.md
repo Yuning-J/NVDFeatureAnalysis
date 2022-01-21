@@ -8,9 +8,9 @@
   <br />
 
   <!-- Badges -->
-  <img src="https://img.shields.io/github/repo-size/Yuni0217/NVDdata_FeatureAnalysis?style=for-the-badge" alt="GitHub repo size" height="25">
-  <img src="https://img.shields.io/github/last-commit/Yuni0217/NVDdata_FeatureAnalysis?style=for-the-badge" alt="GitHub last commit" height="25">
-  <img src="https://img.shields.io/github/license/Yuni0217/NVDdata_FeatureAnalysis?style=for-the-badge" alt="License" height="25">
+  <img src="https://img.shields.io/github/repo-size/Yuning-J/NVDdata_FeatureAnalysis?style=for-the-badge" alt="GitHub repo size" height="25">
+  <img src="https://img.shields.io/github/last-commit/Yuning-J/NVDdata_FeatureAnalysis?style=for-the-badge" alt="GitHub last commit" height="25">
+  <img src="https://img.shields.io/github/license/Yuning-J/NVDdata_FeatureAnalysis?style=for-the-badge" alt="License" height="25">
   <br />
   
   <h3 align="center">NVD Data Feature Analysis</h3>
