@@ -60,7 +60,12 @@ python src./assignCVSSLabels.py that assigns threat labels to NVD vulnerabilitie
 
 ## Some data visualisation
 
+Check some of the visualisation documentations in the Notebooks. Below are some of the examples:
 
+- Vulnerability distribution in terms of access vector:
+<p align="center">
+<img src="https://github.com/Yuning-J/NVDdata-analysis-and-visualisation/blob/main/labelledDataset/samplePic/dataSample_cvssv3.png" alt="System" width="800px">
+</p>
 
 
 ## Cite
