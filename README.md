@@ -1,7 +1,7 @@
 # NVD Data Analysis and Visualisation
 
 ## About the Tool
-Some static analysis and visualisation for vulnerability instances disclosed in [NVD](https://nvd.nist.gov/vuln/full-listing). This tool also generates several datasets that can be used for further text-mining usage. You can directly employ the generated dataset, or apply this tool to get your own. 
+Some static analysis and visualisation for vulnerability instances disclosed in [NVD](https://nvd.nist.gov/vuln/full-listing). This tool also generates several datasets with various labels ([CWE](https://cwe.mitre.org/index.html) labels, [CAPEC](https://capec.mitre.org/index.html) labels, [CVSS](https://www.first.org/cvss/specification-document) labels, [cvedetails](https://www.cvedetails.com/vulnerabilities-by-types.php) labels) that can be used for further text-mining usage. You can directly employ the generated dataset, or apply this tool to get your own. 
 
 
 ## Generate your own data
