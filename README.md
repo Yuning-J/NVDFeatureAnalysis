@@ -7,17 +7,17 @@ Some data samples are illustrated below.
 
 - Report with CWE and CAPEC labels:
 <p align="center">
-<img src="https://github.com/Yuning-J/NVDdata-analysis-and-visualisation/blob/main/labelledDataset/samplePic/dataSample_cwecapec.png" alt="System" width="750px">
+<img src="https://github.com/Yuning-J/NVDdata-analysis-and-visualisation/blob/main/labelledDataset/samplePic/dataSample_cwecapec.png" alt="System" width="800px">
 </p>
 
 - Report with CVSS Version 2 labels:
 <p align="center">
-<img src="https://github.com/Yuning-J/NVDdata-analysis-and-visualisation/blob/main/labelledDataset/samplePic/dataSample_cvssv2.png" alt="System" width="750px">
+<img src="https://github.com/Yuning-J/NVDdata-analysis-and-visualisation/blob/main/labelledDataset/samplePic/dataSample_cvssv2.png" alt="System" width="800px">
 </p>
 
 - Report with CVSS Version 3 labels:
 <p align="center">
-<img src="https://github.com/Yuning-J/NVDdata-analysis-and-visualisation/blob/main/labelledDataset/samplePic/dataSample_cvssv3.png" alt="System" width="750px">
+<img src="https://github.com/Yuning-J/NVDdata-analysis-and-visualisation/blob/main/labelledDataset/samplePic/dataSample_cvssv3.png" alt="System" width="800px">
 </p>
 
 ## Generate your own data
