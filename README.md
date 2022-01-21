@@ -64,7 +64,7 @@ Check some of the visualisation documentations in the Notebooks. Below are some 
 
 - Vulnerability distribution in terms of access vector:
 <p align="center">
-<img src="https://github.com/Yuning-J/NVDdata-analysis-and-visualisation/blob/main/labelledDataset/samplePic/dataSample_cvssv3.png" alt="System" width="800px">
+<img src="https://github.com/Yuning-J/NVDdata_FeatureAnalysis/blob/main/labelledDataset/samplePic/V2AccessVectorDistribution.png" alt="System" width="800px">
 </p>
 
 
