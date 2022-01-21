@@ -1,4 +1,4 @@
-# NVD Data Analysis and Visualisation
+# NVD Data Feature Analysis
 
 ## About the Tool
 Some static analysis and visualisation for vulnerability instances disclosed in [NVD](https://nvd.nist.gov/vuln/full-listing). This tool also generates several datasets with various labels ([CWE](https://cwe.mitre.org/index.html) labels, [CAPEC](https://capec.mitre.org/index.html) labels, [CVSS](https://www.first.org/cvss/specification-document) labels, [cvedetails](https://www.cvedetails.com/vulnerabilities-by-types.php) labels) that can be used for further text-mining usage. You can directly employ the generated dataset, or apply this tool to get your own. 
@@ -47,3 +47,24 @@ python src./assignCVSSLabels.py that assigns threat labels to NVD vulnerabilitie
 - [Threat Labelled Vulnerability dataset](https://github.com/Yuning-J/NVDdata-analysis-and-visualisation/tree/main/labelledDataset/reportsWithThreatLabels) (2002-2021) with labels assigned by [cvedetails](https://www.cvedetails.com/vulnerabilities-by-types.php).
 - [CVSS V2 Labelled Vulnerability dataset](https://github.com/Yuning-J/NVDdata-analysis-and-visualisation/tree/main/labelledDataset/reportsWithCVSSV2Labels) (2002-2021).
 - [CVSS V3 Labelled Vulnerability dataset](https://github.com/Yuning-J/NVDdata-analysis-and-visualisation/tree/main/labelledDataset/reportsWithCVSSV3Labels)  (2002-2021).
+
+
+## Some data visualisation
+
+
+
+
+## Cite
+
+If you use this tool in your academic work you can cite it using
+
+```bibtex
+@Misc{nvddata_featureanalysis,
+  author       = {Yuning Jiang},
+  howpublished = {GitHub},
+  month        = jan,
+  title        = {{NVDdata FeatureAnalysis}},
+  year         = {2022},
+  url          = {https://github.com/Yuning-J/NVDdata_FeatureAnalysis},
+}
+```
