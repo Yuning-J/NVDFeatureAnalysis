@@ -11,19 +11,19 @@ Play with vulnerability reports as you want.
 ```bash
 git clone https://github.com/Yuni0217/NVDdata-analysis-and-visualisation.git 
 ```
-- Step 2: Create a virtual environment.
+- Step 2: Create a virtual environment, also change the absolute path in the config.py file.
 
 - Step 3: Install requirements using `pip`:
 ```bash
 pip install -r requirements.txt
 ```
-- Step 4: Download datasets from NVD feeds.
+- Step 4: Download datasets from NVD feeds and assign CWE/CVSS/threat labels.
 ```bash
-python ./CVSSV3prediction/updateDB.py
-
-- Step 5: Download datasets from NVD feeds.
-```bash
-python ./CVSSV3prediction/updateDB.py
+python src./getNVDdata.py that downlads datasets from NVD feeds.
+python src./assignThreatLabels.py that assigns threat labels to NVD vulnerabilities.
+python src./assignCWECAPECLabels.py that assigns CWE and CAPEC labels to NVD vulnerabilities.
+python src./assignCVSSLabels.py that assigns threat labels to NVD vulnerabilities.
+```
 
 ## Directly use historical datasets
 We only generate the dataset for 2002-2003 and 2020-2021 to save some Github storage, but you can easily change the year parameters and generate reports of any year within (2002-2022) you want. 
