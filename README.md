@@ -42,8 +42,8 @@ python src./assignCVSSLabels.py that assigns threat labels to NVD vulnerabilitie
 ```
 
 ## Directly use historical datasets
-We only generate the dataset for 2002-2003 and 2020-2021 to save some Github storage, but you can easily change the year parameters and generate reports of any year within (2002-2022) you want. 
-- Vulnerability dataset (2002-2003, 2020-2021) with [CWE](https://cwe.mitre.org/index.html) labels, CWE names, and cross-linked [CAPEC](https://capec.mitre.org/index.html) labels. 
-- Vulnerability dataset (2002-2003, 2020-2021) with threat labels assigned by [cvedetails](https://www.cvedetails.com/vulnerabilities-by-types.php).
-- Vulnerability dataset (2002-2003, 2020-2021) with detailed CVSS Version2 labels.
-- Vulnerability dataset (2002-2003, 2020-2021) with detailed CVSS Version3 labels.
+
+- [CWE/CAPEC Labelled Vulnerability dataset](https://github.com/Yuning-J/NVDdata-analysis-and-visualisation/tree/main/labelledDataset/reportsWithCVSSV2Labels) (2002-2021) with CWE labels, CWE names, and cross-linked CAPEC labels.  
+- [Threat Labelled Vulnerability dataset](https://github.com/Yuning-J/NVDdata-analysis-and-visualisation/tree/main/labelledDataset/reportsWithThreatLabels) with labels assigned by [cvedetails](https://www.cvedetails.com/vulnerabilities-by-types.php).
+- [CVSS V2 Labelled Vulnerability dataset](https://github.com/Yuning-J/NVDdata-analysis-and-visualisation/tree/main/labelledDataset/reportsWithCVSSV2Labels) (2002-2021).
+- [CVSS V3 Labelled Vulnerability dataset](https://github.com/Yuning-J/NVDdata-analysis-and-visualisation/tree/main/labelledDataset/reportsWithCVSSV3Labels)  (2002-2021).
