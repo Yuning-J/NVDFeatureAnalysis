@@ -62,7 +62,7 @@ Note that these datasets are compressed due to large sizes.
 
 ## Some data visualisation
 
-Check some of the visualisation documentations in the Notebooks. Below are some of the examples:
+Check some of the visualisation documentations in the Notebooks. Or create your own awesomes. Below are some of the examples:
 
 - Vulnerability distribution in terms of access vector:
 <p align="center">
