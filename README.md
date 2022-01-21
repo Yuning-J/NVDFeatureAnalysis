@@ -74,6 +74,11 @@ Check some of the visualisation documentations in the Notebooks. Or create your 
 <img src="https://github.com/Yuning-J/NVDdata_FeatureAnalysis/blob/main/labelledDataset/samplePic/V2AccessVectorDistribution.png" alt="System" width="750px">
 </p>
 
+- Threat distribution:
+<p align="center">
+<img src="https://github.com/Yuning-J/NVDdata_FeatureAnalysis/blob/main/labelledDataset/samplePic/CVEDetails2021.png" alt="System" width="750px">
+</p>
+
 
 ## Cite
 
