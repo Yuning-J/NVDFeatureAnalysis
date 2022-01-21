@@ -1,5 +1,25 @@
 # NVD Data Feature Analysis
 
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/Yuning-J/NVDdata_FeatureAnalysis">
+  </a>
+  <br />
+
+  <!-- Badges -->
+  <img src="https://img.shields.io/github/repo-size/Yuni0217/NVDdata_FeatureAnalysis?style=for-the-badge" alt="GitHub repo size" height="25">
+  <img src="https://img.shields.io/github/last-commit/Yuni0217/NVDdata_FeatureAnalysis?style=for-the-badge" alt="GitHub last commit" height="25">
+  <img src="https://img.shields.io/github/license/Yuni0217/NVDdata_FeatureAnalysis?style=for-the-badge" alt="License" height="25">
+  <br />
+  
+  <h3 align="center">NVD Data Feature Analysis</h3>
+  <p align="center">
+    Analyse the features of NVD vulnerability reports in terms of CWE, CAPEC, threat and CVSS V2/V3.
+ 
+  </p>
+</p>
+
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
