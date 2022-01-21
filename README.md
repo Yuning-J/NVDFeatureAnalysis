@@ -3,6 +3,19 @@
 ## About the Tool
 Some static analysis and visualisation for vulnerability instances disclosed in [NVD](https://nvd.nist.gov/vuln/full-listing). This tool also generates several datasets with various labels ([CWE](https://cwe.mitre.org/index.html) labels, [CAPEC](https://capec.mitre.org/index.html) labels, [CVSS](https://www.first.org/cvss/specification-document) labels, [cvedetails](https://www.cvedetails.com/vulnerabilities-by-types.php) labels) that can be used for further text-mining usage. You can directly employ the generated dataset, or apply this tool to get your own. 
 
+Some data samples are illustrated below.
+- Report with CWE and CAPEC labels:
+<p align="center">
+<img src="https://github.com/Yuning-J/NVDdata-analysis-and-visualisation/blob/main/labelledDataset/samplePic/dataSample_cwecapec.png" alt="System" width="750px">
+</p>
+- Report with CVSS Version 2 labels:
+<p align="center">
+<img src="https://github.com/Yuning-J/NVDdata-analysis-and-visualisation/blob/main/labelledDataset/samplePic/dataSample_cvssv2.png" alt="System" width="750px">
+</p>
+- Report with CVSS Version 3 labels:
+<p align="center">
+<img src="https://github.com/Yuning-J/NVDdata-analysis-and-visualisation/blob/main/labelledDataset/samplePic/dataSample_cvssv3.png" alt="System" width="750px">
+</p>
 
 ## Generate your own data
 Play with vulnerability reports as you want. 
