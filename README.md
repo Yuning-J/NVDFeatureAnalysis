@@ -44,6 +44,6 @@ python src./assignCVSSLabels.py that assigns threat labels to NVD vulnerabilitie
 ## Directly use historical datasets
 
 - [CWE/CAPEC Labelled Vulnerability dataset](https://github.com/Yuning-J/NVDdata-analysis-and-visualisation/tree/main/labelledDataset/reportsWithCVSSV2Labels) (2002-2021) with CWE labels, CWE names, and cross-linked CAPEC labels.  
-- [Threat Labelled Vulnerability dataset](https://github.com/Yuning-J/NVDdata-analysis-and-visualisation/tree/main/labelledDataset/reportsWithThreatLabels) with labels assigned by [cvedetails](https://www.cvedetails.com/vulnerabilities-by-types.php).
+- [Threat Labelled Vulnerability dataset](https://github.com/Yuning-J/NVDdata-analysis-and-visualisation/tree/main/labelledDataset/reportsWithThreatLabels) (2002-2021) with labels assigned by [cvedetails](https://www.cvedetails.com/vulnerabilities-by-types.php).
 - [CVSS V2 Labelled Vulnerability dataset](https://github.com/Yuning-J/NVDdata-analysis-and-visualisation/tree/main/labelledDataset/reportsWithCVSSV2Labels) (2002-2021).
 - [CVSS V3 Labelled Vulnerability dataset](https://github.com/Yuning-J/NVDdata-analysis-and-visualisation/tree/main/labelledDataset/reportsWithCVSSV3Labels)  (2002-2021).
