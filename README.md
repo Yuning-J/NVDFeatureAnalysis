@@ -1,19 +1,19 @@
-# NVD Data Feature Analysis
+# NVD Feature Analysis
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/Yuning-J/NVDdata_FeatureAnalysis">
+  <a href="https://github.com/Yuning-J/NVDFeatureAnalysis">
   </a>
   <br />
 
   <!-- Badges -->
-  <img src="https://img.shields.io/github/repo-size/Yuning-J/NVDdata_FeatureAnalysis?style=for-the-badge" alt="GitHub repo size" height="25">
-  <img src="https://img.shields.io/github/last-commit/Yuning-J/NVDdata_FeatureAnalysis?style=for-the-badge" alt="GitHub last commit" height="25">
-  <img src="https://img.shields.io/github/license/Yuning-J/NVDdata_FeatureAnalysis?style=for-the-badge" alt="License" height="25">
+  <img src="https://img.shields.io/github/repo-size/Yuning-J/NVDFeatureAnalysis?style=for-the-badge" alt="GitHub repo size" height="25">
+  <img src="https://img.shields.io/github/last-commit/Yuning-J/NVDFeatureAnalysiss?style=for-the-badge" alt="GitHub last commit" height="25">
+  <img src="https://img.shields.io/github/license/Yuning-J/NVDFeatureAnalysis?style=for-the-badge" alt="License" height="25">
   <br />
   
-  <h3 align="center">NVD Data Feature Analysis</h3>
+  <h3 align="center">NVD Feature Analysis</h3>
   <p align="center">
     Analyse the features of NVD vulnerability reports in terms of CWE, CAPEC, threat and CVSS V2/V3.
  
@@ -36,22 +36,22 @@ Some data samples are illustrated below.
 
 - Report with CWE and CAPEC labels:
 <p align="center">
-<img src="https://github.com/Yuning-J/NVDdata-analysis-and-visualisation/blob/main/labelledDataset/samplePic/dataSample_cwecapec.png" alt="System" width="800px">
+<img src="https://github.com/Yuning-J/NVDFeatureAnalysis/blob/main/labelledDataset/samplePic/dataSample_cwecapec.png" alt="System" width="800px">
 </p>
 
 - Report with Threat labels:
 <p align="center">
-<img src="https://github.com/Yuning-J/NVDdata_FeatureAnalysis/blob/main/labelledDataset/samplePic/dataSample_threat.png" alt="System" width="850px">
+<img src="https://github.com/Yuning-J/NVDFeatureAnalysis/blob/main/labelledDataset/samplePic/dataSample_threat.png" alt="System" width="850px">
 </p>
 
 - Report with CVSS Version 2 labels:
 <p align="center">
-<img src="https://github.com/Yuning-J/NVDdata-analysis-and-visualisation/blob/main/labelledDataset/samplePic/dataSample_cvssv2.png" alt="System" width="800px">
+<img src="https://github.com/Yuning-J/NVDFeatureAnalysis/blob/main/labelledDataset/samplePic/dataSample_cvssv2.png" alt="System" width="800px">
 </p>
 
 - Report with CVSS Version 3 labels:
 <p align="center">
-<img src="https://github.com/Yuning-J/NVDdata-analysis-and-visualisation/blob/main/labelledDataset/samplePic/dataSample_cvssv3.png" alt="System" width="800px">
+<img src="https://github.com/Yuning-J/NVDFeatureAnalysis/blob/main/labelledDataset/samplePic/dataSample_cvssv3.png" alt="System" width="800px">
 </p>
 
 ## Generate your own data
@@ -79,24 +79,24 @@ python src./assignCVSSLabels.py that assigns threat labels to NVD vulnerabilitie
 
 Note that these datasets are compressed due to large sizes.
 
-- [CWE/CAPEC Labelled Vulnerability dataset](https://github.com/Yuning-J/NVDdata-analysis-and-visualisation/tree/main/labelledDataset/reportsWithCVSSV2Labels) (2002-2021) with CWE labels and names, and CAPEC labels.  
-- [Threat Labelled Vulnerability dataset](https://github.com/Yuning-J/NVDdata-analysis-and-visualisation/tree/main/labelledDataset/reportsWithThreatLabels) (2002-2021) with labels assigned by [cvedetails](https://www.cvedetails.com/vulnerabilities-by-types.php).
-- [CVSS V2 Labelled Vulnerability dataset](https://github.com/Yuning-J/NVDdata-analysis-and-visualisation/tree/main/labelledDataset/reportsWithCVSSV2Labels) (2002-2021).
-- [CVSS V3 Labelled Vulnerability dataset](https://github.com/Yuning-J/NVDdata-analysis-and-visualisation/tree/main/labelledDataset/reportsWithCVSSV3Labels)  (2002-2021).
+- [CWE/CAPEC Labelled Vulnerability dataset](https://github.com/Yuning-J/NVDFeatureAnalysis/tree/main/labelledDataset/reportsWithCVSSV2Labels) (2002-2021) with CWE labels and names, and CAPEC labels.  
+- [Threat Labelled Vulnerability dataset](https://github.com/Yuning-J/NVDFeatureAnalysis/tree/main/labelledDataset/reportsWithThreatLabels) (2002-2021) with labels assigned by [cvedetails](https://www.cvedetails.com/vulnerabilities-by-types.php).
+- [CVSS V2 Labelled Vulnerability dataset](https://github.com/Yuning-J/NVDFeatureAnalysis/tree/main/labelledDataset/reportsWithCVSSV2Labels) (2002-2021).
+- [CVSS V3 Labelled Vulnerability dataset](https://github.com/Yuning-J/NVDFeatureAnalysis/tree/main/labelledDataset/reportsWithCVSSV3Labels)  (2002-2021).
 
 
 ## Some data visualisation
 
-Check some of the visualisation documentations in the [Notebooks](https://github.com/Yuning-J/NVDdata_FeatureAnalysis/tree/main/visualisatio). Or create your own awesomes. Below are some of the examples:
+Check some of the visualisation documentations in the [Notebooks](https://github.com/Yuning-J/NVDFeatureAnalysis/tree/main/visualisatio). Or create your own awesomes. Below are some of the examples:
 
 - Vulnerability distribution in terms of access vector:
 <p align="center">
-<img src="https://github.com/Yuning-J/NVDdata_FeatureAnalysis/blob/main/labelledDataset/samplePic/V2AccessVectorDistribution.png" alt="System" width="700px">
+<img src="https://github.com/Yuning-J/NVDFeatureAnalysis/blob/main/labelledDataset/samplePic/V2AccessVectorDistribution.png" alt="System" width="700px">
 </p>
 
 - Threat distribution:
 <p align="center">
-<img src="https://github.com/Yuning-J/NVDdata_FeatureAnalysis/blob/main/labelledDataset/samplePic/CVEDetails2021.png" alt="System" width="780px">
+<img src="https://github.com/Yuning-J/NVDFeatureAnalysis/blob/main/labelledDataset/samplePic/CVEDetails2021.png" alt="System" width="780px">
 </p>
 
 
@@ -105,12 +105,12 @@ Check some of the visualisation documentations in the [Notebooks](https://github
 If you use this tool in your academic work you can cite it using
 
 ```bibtex
-@Misc{nvddata_featureanalysis,
+@Misc{nvdfeatureanalysis,
   author       = {Yuning Jiang},
   howpublished = {GitHub},
   month        = jan,
   title        = {{NVDdata FeatureAnalysis}},
   year         = {2022},
-  url          = {https://github.com/Yuning-J/NVDdata_FeatureAnalysis},
+  url          = {https://github.com/Yuning-J/NVDFeatureAnalysis},
 }
 ```
