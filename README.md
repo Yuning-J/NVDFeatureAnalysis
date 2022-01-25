@@ -109,7 +109,7 @@ If you use this tool in your academic work you can cite it using
   author       = {Yuning Jiang},
   howpublished = {GitHub},
   month        = jan,
-  title        = {{NVDdata FeatureAnalysis}},
+  title        = {{NVD Feature Analysis}},
   year         = {2022},
   url          = {https://github.com/Yuning-J/NVDFeatureAnalysis},
 }
