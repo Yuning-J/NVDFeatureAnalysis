@@ -21,6 +21,7 @@ argparser.add_argument('-f', action='store_true', help='force update')
 args = argparser.parse_args()
 
 # Create a class to handle CWE tree structure.
+# update based on code in：https://github.com/cve-search/cve-search
 class CWEHandler(ContentHandler):
     def __init__(self):
         self.cwe = []
@@ -169,6 +170,7 @@ class CWEHandler(ContentHandler):
             self.alternate_terms = False
 
 # Create a progress bar.
+# update based on code in：https://github.com/cve-search/cve-search
 def progressBar(it, prefix="Preparing ", size=50):
     count = len(it)
 
