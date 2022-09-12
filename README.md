@@ -69,10 +69,10 @@ pip install -r requirements.txt
 ```
 - Step 4: Download datasets from NVD feeds and assign CWE/CVSS/threat labels.
 ```bash
-python src./getNVDdata.py that downlads datasets from NVD feeds.
-python src./assignThreatLabels.py that assigns threat labels to NVD vulnerabilities.
-python src./assignCWECAPECLabels.py that assigns CWE and CAPEC labels to NVD vulnerabilities.
-python src./assignCVSSLabels.py that assigns threat labels to NVD vulnerabilities.
+python src/getNVDdata.py that downlads datasets from NVD feeds.
+python src/assignThreatLabels.py that assigns threat labels to NVD vulnerabilities.
+python src/assignCWECAPECLabels.py that assigns CWE and CAPEC labels to NVD vulnerabilities.
+python src/assignCVSSLabels.py that assigns threat labels to NVD vulnerabilities.
 ```
 
 ## Directly use historical datasets
